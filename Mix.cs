@@ -7,9 +7,9 @@ namespace AwakeDream
 {dasdasdsadasdas
 
     struct MixGroup
-    {fsaffdsa
+    {
         public List<int> lInList;
-        public List<int> lOutList;dafafasfsdf
+        public List<int> lOutList;
     }
     public class Mix
     {
